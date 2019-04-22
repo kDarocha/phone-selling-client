@@ -1,0 +1,18 @@
+.Login {
+  display: flex;
+  height: 100vh;
+
+  .login-form {
+    width: 100%;
+    max-width: 340px;
+    margin: auto;
+
+    h1 {
+      text-transform: uppercase;
+    }
+
+    .login-form-button {
+      width: 100%;
+    }
+  }
+}
